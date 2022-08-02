@@ -34,7 +34,9 @@ The following files were downloaded and copied to the desktop:
 1. A command prompt will appear to install additional tools. Press any key to continue, several times:
   * ![image](https://user-images.githubusercontent.com/1305026/182406948-74ef9157-7a61-4d0c-8c30-f67f34c0a558.png)
 1. If prompted, allow Windows PowerShell to make changes to this device in the UAC popup by clicking yes.
-1. Wait while additional tools install (11:02-...)
+1. Wait while additional tools install. This took 6 minutes on my VM, YMMV:
+ * ![image](https://user-images.githubusercontent.com/1305026/182408924-97091705-7eed-409a-a350-7e4fd72be9b5.png)
+1. Type ENTER to exit.
 
 
 ### Git
