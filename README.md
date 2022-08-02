@@ -59,3 +59,13 @@ The following files were downloaded and copied to the desktop:
 
 
 ## Verification
+
+Two local accounts, "CPP Student" and "Javascript Student" were created with the "Standard User" account type.
+
+### CIS-1090
+
+1. Login as Javascript Student
+2. Start VS Code
+3. Choose "Clone Git Repository" 
+
+### CIS-2031
