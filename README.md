@@ -16,6 +16,29 @@ The following files were downloaded and copied to the desktop:
 
 ![image](https://user-images.githubusercontent.com/1305026/182405189-cd971b35-4cfb-4448-bf42-b31b574ff740.png)
 
+### Git
+
+**TLDR: Install Git client with all defaults**
+
+1. Double click on the Git installer
+1. If prompted, allow Git for Windows to make changes to this device in the UAC popup by clicking yes.
+1. Click next.
+1. Use all the defaults, just keep clicking next until you get to the Install button.
+1. Click Install.
+1. Uncheck "View Release Notes" and click Finish:
+
+
+### VS Code
+
+**TLDR: Install VS Code with all defaults**
+
+1. Double click on the VS Code Installer.
+1. If prompted, allow VS Code to make changes to this device in the UAC popup by clicking yes.
+1. Accept the agreement and click next.
+1. Use the default location, `C:\Program Files\Microsoft VS Code`. Click next.
+1. Use all the defaults, just keep clicking next until you get to the Install button.
+1. Click Install.
+1. Uncheck "Launch Visual Studio Code" and click Finish:
 
 ### Node.js
 
@@ -41,31 +64,6 @@ The following files were downloaded and copied to the desktop:
 1. Type ENTER to exit.
 
 
-### Git
-
-**TLDR: Install Git client with all defaults**
-
-1. Double click on the Git installer
-1. If prompted, allow Git for Windows to make changes to this device in the UAC popup by clicking yes.
-1. Click next.
-1. Use all the defaults, just keep clicking next until you get to the Install button.
-1. Click Install.
-1. Uncheck "View Release Notes" and click Finish:
- * ![image](https://user-images.githubusercontent.com/1305026/182411202-f1a30a34-c90e-4bea-8cb4-ee39a0073803.png)
-
-
-### VS Code
-
-**TLDR: Install VS Code with all defaults**
-
-1. Double click on the VS Code Installer.
-1. If prompted, allow VS Code to make changes to this device in the UAC popup by clicking yes.
-1. Accept the agreement and click next.
-1. Use the default location, `C:\Program Files\Microsoft VS Code`. Click next.
-1. Use all the defaults, just keep clicking next until you get to the Install button.
-1. Click Install.
-1. Uncheck "Launch Visual Studio Code" and click Finish:
- * ![image](https://user-images.githubusercontent.com/1305026/182412233-8fc58a2e-7bdc-4fd1-bb76-4fe346d62aa3.png)
 
 
 
