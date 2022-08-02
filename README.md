@@ -47,8 +47,7 @@ The following files were downloaded and copied to the desktop:
 1. Accept the terms of the License Agreement, click next.
 1. Use the default location, `C:\Program Files\nodejs\`. Click next.
 1. Leave the features as default, click next:
-1. **Check the checbox "Automatically install the necessary tools..."**, click next:
-  * ![image](https://user-images.githubusercontent.com/1305026/182406243-8a38f50a-a374-46b9-8070-838b9694b38f.png)
+1. **Check the checbox "Automatically install the necessary tools..."**, click next: ![image](https://user-images.githubusercontent.com/1305026/182406243-8a38f50a-a374-46b9-8070-838b9694b38f.png)
 1. Click Install to begin the installation.
 1. If prompted, allow Node.js to make changes to this device in the UAC popup by clicking yes.
 1. Once this phase of the installation is successfull click finish:
