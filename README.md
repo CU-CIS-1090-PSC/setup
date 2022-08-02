@@ -41,6 +41,16 @@ The following files were downloaded and copied to the desktop:
 
 ### Git
 
+1. Double click on the Git installer
+1. If prompted, allow Git for Windows to make changes to this device in the UAC popup by clicking yes.
+1. Click next.
+1. Use all the defaults, just keep clicking next until you get to the Install button.
+1. Click Install.
+1. Uncheck "View Release Notes" and click Finish:
+ * ![image](https://user-images.githubusercontent.com/1305026/182411202-f1a30a34-c90e-4bea-8cb4-ee39a0073803.png)
+
+
+
 ### VSCode
 
 ## Verification
