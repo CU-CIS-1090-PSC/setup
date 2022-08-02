@@ -59,7 +59,7 @@ The following files were downloaded and copied to the desktop:
 
 ## Verification
 
-Two local accounts, "CPP Student" and "Javascript Student" were created with the "Standard User" account type.
+To be run as a student account.
 
 ### CIS-1090
 
