@@ -13,7 +13,7 @@ The following files were downloaded and copied to the desktop:
 * https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-64-bit.exe
 * https://code.visualstudio.com/sha/download?build=stable&os=win32-x64
 * https://nodejs.org/dist/v18.16.1/node-v18.16.1-x64.msi
-* https://aka.ms/vscode-java-installer-win
+* https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.7%2B7/OpenJDK17U-jdk_x64_windows_hotspot_17.0.7_7.msi
 
 ### Git
 
@@ -31,6 +31,7 @@ The following files were downloaded and copied to the desktop:
 
 After the GUI install there will be a couple command prompt windows to hit enter in and PowerShell scripts to allow...
 
-### Java Coding Pack
+### JDK
 
+**Install with defaults**
 
