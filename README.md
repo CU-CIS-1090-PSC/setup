@@ -1,6 +1,6 @@
 # Software intalls for CIS-1090 and CIS-2031
 
-Instructions and settings for installing VS Code, Git client, and Node.js with resistributable C++ compiler
+Instructions and settings for installing VS Code, Git client, Node.js with resistributable C++ compiler & Python, and Java
 
 ## Background
 
